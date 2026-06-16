@@ -17,6 +17,14 @@ Vendly is written in **Ruby on Rails** and runs completely self-hosted. The back
 
 ---
 
+<div align="center" style="background: #111; border: 1px solid #333; padding: 20px; border-radius: 8px; margin: 20px 0;">
+  <h3>💬 Join the Official Dev Community</h3>
+  <p>Connect with other privacy-centric developers, get real-time software changelogs, updates, and community feedback.</p>
+  <a href="https://t.me/vendlyscript" target="_blank" style="background: #0088cc; color: white; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 4px; display: inline-block;">👉 Join Our Telegram Group</a>
+</div>
+
+---
+
 ## 💎 Features
 
 ### 🔒 Privacy & Cyber Security
@@ -61,6 +69,7 @@ Vendly is written in **Ruby on Rails** and runs completely self-hosted. The back
 * **Educational & Legal Use Only:** "Vendly" is a software script intended solely for educational research, penetration testing, and the creation of legal, privacy-centric e-commerce platforms. 
 * **No Liability:** By purchasing or downloading this source code, you agree that you are solely responsible for how the script is utilized. The developer assumes zero liability for any illicit, illegal, or prohibited activities facilitated by the deployment of this codebase. 
 * **No Technical Support for Illicit Use:** Technical support will be immediately terminated if the developer becomes aware the source code is being utilized to violate local, federal, or international laws.
+
 ---
 
 ## 📦 Licensing & Setup Inquiries
@@ -75,4 +84,4 @@ Vendly is exclusively available via private **Script Licensing**.
 3. 30 Days of direct technical guidance for server architecture and setup via Telegram.
 
 ### 📩 Let's Talk:
-We are open to negotiation. Message **[@vendlydev](https://t.me/vendlydev)** on Telegram to discuss pricing options, view the live `.onion` demo, and secure your license.
+We are open to negotiation. Message **[@vendlydev](https://t.me/vendelydevs)** on Telegram to discuss pricing options, view the live `.onion` demo, and secure your license.
