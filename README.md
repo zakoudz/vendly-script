@@ -85,4 +85,4 @@ Vendly is exclusively available via private **Script Licensing**.
 3. 30 Days of direct technical guidance for server architecture and setup via Telegram.
 
 ### 📩 Let's Talk:
-We are open to negotiation. Message **[@vendlydev](https://t.me/vendelydevs)** on Telegram to discuss pricing options, view the live `.onion` demo, and secure your license.
+We are open to negotiation. Message **[@vendlydevs](https://t.me/vendlydevs)** on Telegram to discuss pricing options, view the live `.onion` demo, and secure your license.
