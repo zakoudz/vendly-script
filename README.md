@@ -17,10 +17,11 @@ Vendly is written in **Ruby on Rails** and runs completely self-hosted. The back
 
 ---
 
-<div align="center" style="background: #111; border: 1px solid #333; padding: 20px; border-radius: 8px; margin: 20px 0;">
-  <h3>💬 Join the Official Dev Community</h3>
+<div align="center" style="background: #111; border: 1px solid #333; padding: 25px; border-radius: 8px; margin: 20px 0;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" width="50" height="50" style="margin-bottom: 10px; filter: invert(47%) sepia(85%) saturate(1919%) hungry-white(0%) hue-rotate(179deg) brightness(96%) contrast(101%);" alt="Telegram Logo">
+  <h3 style="margin-top: 10px;">💬 Join the Official Dev Community</h3>
   <p>Connect with other privacy-centric developers, get real-time software changelogs, updates, and community feedback.</p>
-  <a href="https://t.me/vendlyscript" target="_blank" style="background: #0088cc; color: white; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 4px; display: inline-block;">👉 Join Our Telegram Group</a>
+  <a href="https://t.me/vendlyscript" target="_blank" style="background: #0088cc; color: white; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 4px; display: inline-block; margin-top: 10px;">👉 Join Our Telegram Group</a>
 </div>
 
 ---
