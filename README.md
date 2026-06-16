@@ -6,7 +6,7 @@
 <br>
 
 ## ⚙️ Core Architecture & Codebase
-Vendly is an enterprise-grade, self-hosted e-commerce ecosystem built entirely on **Ruby on Rails**. The architecture leverages a secure PostgreSQL database, Redis for fast caching, and sidekiq background workers to manage real-time blockchain tracking. The entire stack is containerized using Docker, allowing complete infrastructure deployment across any secure Linux environment in a single command.
+Vendly is written in **Ruby on Rails** and runs completely self-hosted. The backend uses a standard **PostgreSQL** database to manage market data, **Redis** for quick caching, and **Sidekiq** background workers to handle the on-chain Monero payment tracking. The entire environment is fully containerized with **Docker** (`docker-compose`), meaning you can spin up the whole system on any Linux VPS with one command.
 
 ---
 
@@ -57,11 +57,10 @@ Vendly is an enterprise-grade, self-hosted e-commerce ecosystem built entirely o
 ## ⚖️ Legal Disclaimer & Terms of Use
 **Read carefully before contacting.**
 
-* **Developer Status:** The creator of this software is an independent software developer. The developer is **not** engaged in, affiliated with, or responsible for any operations, sales, or activities conducted by individuals who purchase and deploy this software.
+* **Developer Status:** The creator of this codebase is an independent software developer. The developer is **not** engaged in, affiliated with, or responsible for any operations, sales, or activities conducted by individuals who purchase and deploy this source code.
 * **Educational & Legal Use Only:** "Vendly" is a software script intended solely for educational research, penetration testing, and the creation of legal, privacy-centric e-commerce platforms. 
-* **No Liability:** By purchasing or downloading this script, you agree that you are solely responsible for how the software is used. The developer assumes zero liability for any illicit, illegal, or prohibited activities facilitated by the deployment of this software. 
-* **No Technical Support for Illicit Use:** Technical support will be immediately terminated if the developer becomes aware the script is being utilized to violate local, federal, or international laws.
-
+* **No Liability:** By purchasing or downloading this source code, you agree that you are solely responsible for how the script is utilized. The developer assumes zero liability for any illicit, illegal, or prohibited activities facilitated by the deployment of this codebase. 
+* **No Technical Support for Illicit Use:** Technical support will be immediately terminated if the developer becomes aware the source code is being utilized to violate local, federal, or international laws.
 ---
 
 ## 📦 Licensing & Setup Inquiries
