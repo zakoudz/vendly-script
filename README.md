@@ -65,71 +65,22 @@ Vendly is written in **Ruby on Rails** and runs completely self-hosted. The back
 
 ## 📸 Interface Preview (Screenshots)
 
-<div align="center">
-  <table border="0" cellpadding="5" cellspacing="5" style="border-collapse: collapse; border: none; background: transparent; width: 100%;">
-    <tr style="border: none; background: transparent;">
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/22ff3f79-4202-4534-97f8-5d1675cfaec5" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="Vendor Panel" src="https://github.com/user-attachments/assets/2bef8e8a-3404-44d7-8ddf-f7884b790fold6" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="Product Listings" src="https://github.com/user-attachments/assets/3f7bb082-de60-4023-9e83-39eb203294d1" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-    </tr>
-    <tr style="border: none; background: transparent;">
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="Escrow & Disputes" src="https://github.com/user-attachments/assets/a134b56f-d371-4e3a-8b44-9e603aea71b4" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="Payment Gateways" src="https://github.com/user-attachments/assets/b86a7f96-e682-4e01-87cd-842b4b85be4b" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="Security Settings" src="https://github.com/user-attachments/assets/731c26ec-1442-4a96-88a0-bb9513163125" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-    </tr>
-    <tr style="border: none; background: transparent;">
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="Admin Control" src="https://github.com/user-attachments/assets/6e2405e8-f86d-4c24-a946-c7b1300aab5b" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="Order Analytics" src="https://github.com/user-attachments/assets/9ed2e9cf-f182-4b68-99ef-3cd5a4723509" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="Marketplace Interface" src="https://github.com/user-attachments/assets/bdfa4fb9-2706-4ec2-8143-aaa8a6855238" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-    </tr>
-    <tr style="border: none; background: transparent;">
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="Chat & Messaging" src="https://github.com/user-attachments/assets/e4bdf038-f58d-4381-8cb5-37215e891bcd" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="Wallet Operations" src="https://github.com/user-attachments/assets/24a0520b-a17d-4a2a-a06d-4553ddbc743c" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="User Profile" src="https://github.com/user-attachments/assets/dc307b04-8493-4473-9feb-2035793b998e" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-    </tr>
-    <tr style="border: none; background: transparent;">
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="PGP Setup" src="https://github.com/user-attachments/assets/c97ffd7d-1382-41aa-a97a-698d5132cf3d" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="Checkout Flow" src="https://github.com/user-attachments/assets/346119d3-3d81-4096-956f-afd3dfdcdf9d" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="Support Tickets" src="https://github.com/user-attachments/assets/c1fd3a0e-f0a1-4c81-9e15-5b029c7bfbea" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-    </tr>
-    <tr style="border: none; background: transparent;">
-      <td width="33.33%" align="center" style="border: none; padding: 5px;"></td>
-      <td width="33.33%" align="center" style="border: none; padding: 5px;">
-        <img width="100%" alt="System Logs" src="https://github.com/user-attachments/assets/d2d2d880-15f3-49e0-bf73-2ca40cd4b93c" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-      </td>
-      <td width="33.33%" align="center" style="border: none; padding: 5px;"></td>
-    </tr>
-  </table>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; max-width: 1200px; margin: 0 auto;">
+  <img src="https://github.com/user-attachments/assets/22ff3f79-4202-4534-97f8-5d1675cfaec5" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="Dashboard Overview">
+  <img src="https://github.com/user-attachments/assets/3f7bb082-de60-4023-9e83-39eb203294d1" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="Product Listings">
+  <img src="https://github.com/user-attachments/assets/a134b56f-d371-4e3a-8b44-9e603aea71b4" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="Escrow & Disputes">
+  <img src="https://github.com/user-attachments/assets/b86a7f96-e682-4e01-87cd-842b4b85be4b" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="Payment Gateways">
+  <img src="https://github.com/user-attachments/assets/731c26ec-1442-4a96-88a0-bb9513163125" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="Security Settings">
+  <img src="https://github.com/user-attachments/assets/6e2405e8-f86d-4c24-a946-c7b1300aab5b" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="Admin Control">
+  <img src="https://github.com/user-attachments/assets/9ed2e9cf-f182-4b68-99ef-3cd5a4723509" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="Order Analytics">
+  <img src="https://github.com/user-attachments/assets/bdfa4fb9-2706-4ec2-8143-aaa8a6855238" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="Marketplace Interface">
+  <img src="https://github.com/user-attachments/assets/e4bdf038-f58d-4381-8cb5-37215e891bcd" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="Chat & Messaging">
+  <img src="https://github.com/user-attachments/assets/24a0520b-a17d-4a2a-a06d-4553ddbc743c" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="Wallet Operations">
+  <img src="https://github.com/user-attachments/assets/dc307b04-8493-4473-9feb-2035793b998e" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="User Profile">
+  <img src="https://github.com/user-attachments/assets/c97ffd7d-1382-41aa-a97a-698d5132cf3d" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="PGP Setup">
+  <img src="https://github.com/user-attachments/assets/346119d3-3d81-4096-956f-afd3dfdcdf9d" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="Checkout Flow">
+  <img src="https://github.com/user-attachments/assets/c1fd3a0e-f0a1-4c81-9e15-5b029c7bfbea" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="Support Tickets">
+  <img src="https://github.com/user-attachments/assets/d2d2d880-15f3-49e0-bf73-2ca40cd4b93c" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="System Logs">
 </div>
 
 ---
