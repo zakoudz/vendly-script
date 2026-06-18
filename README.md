@@ -63,6 +63,24 @@ Vendly is written in **Ruby on Rails** and runs completely self-hosted. The back
 
 ---
 
+<img width="1731" height="1740" alt="Screenshot_18-6-2026_185452_192 168 100 77" src="https://github.com/user-attachments/assets/22ff3f79-4202-4534-97f8-5d1675cfaec5" />
+<img width="1731" height="2376" alt="Screenshot_18-6-2026_185439_192 168 100 77" src="https://github.com/user-attachments/assets/2bef8e8a-3404-44d7-8ddf-f7884b790fd6" />
+<img width="1731" height="753" alt="Screenshot_18-6-2026_185341_192 168 100 77" src="https://github.com/user-attachments/assets/3f7bb082-de60-4023-9e83-39eb203294d1" />
+<img width="1731" height="1648" alt="Screenshot_18-6-2026_19637_192 168 100 77" src="https://github.com/user-attachments/assets/a134b56f-d371-4e3a-8b44-9e603aea71b4" />
+<img width="1731" height="2563" alt="Screenshot_18-6-2026_19513_192 168 100 77" src="https://github.com/user-attachments/assets/b86a7f96-e682-4e01-87cd-842b4b85be4b" />
+<img width="1731" height="1999" alt="Screenshot_18-6-2026_19441_192 168 100 77" src="https://github.com/user-attachments/assets/731c26ec-1442-4a96-88a0-bb9513163125" />
+<img width="1731" height="1590" alt="Screenshot_18-6-2026_19116_192 168 100 77" src="https://github.com/user-attachments/assets/6e2405e8-f86d-4c24-a946-c7b1300aab5b" />
+<img width="1731" height="4597" alt="Screenshot_18-6-2026_1939_192 168 100 77" src="https://github.com/user-attachments/assets/9ed2e9cf-f182-4b68-99ef-3cd5a4723509" />
+<img width="1315" height="925" alt="Screenshot 2026-06-18 at 19-10-17 Vendly" src="https://github.com/user-attachments/assets/bdfa4fb9-2706-4ec2-8143-aaa8a6855238" />
+<img width="1321" height="1827" alt="Screenshot 2026-06-18 at 19-09-35 Vendly" src="https://github.com/user-attachments/assets/e4bdf038-f58d-4381-8cb5-37215e891bcd" />
+<img width="1332" height="1584" alt="Screenshot 2026-06-18 at 19-09-09 Vendly" src="https://github.com/user-attachments/assets/24a0520b-a17d-4a2a-a06d-4553ddbc743c" />
+<img width="1315" height="925" alt="Screenshot 2026-06-18 at 19-08-41 Vendly" src="https://github.com/user-attachments/assets/dc307b04-8493-4473-9feb-2035793b998e" />
+<img width="1315" height="516" alt="Screenshot 2026-06-18 at 19-06-06 Vendly" src="https://github.com/user-attachments/assets/c97ffd7d-1382-41aa-a97a-698d5132cf3d" />
+<img width="1731" height="3418" alt="Screenshot_18-6-2026_185610_192 168 100 77" src="https://github.com/user-attachments/assets/346119d3-3d81-4096-956f-afd3dfdcdf9d" />
+<img width="1731" height="1901" alt="Screenshot_18-6-2026_185540_192 168 100 77" src="https://github.com/user-attachments/assets/c1fd3a0e-f0a1-4c81-9e15-5b029c7bfbea" />
+<img width="1731" height="1901" alt="Screenshot_18-6-2026_185524_192 168 100 77" src="https://github.com/user-attachments/assets/d2d2d880-15f3-49e0-bf73-2ca40cd4b93c" />
+
+
 ## ⚖️ Legal Disclaimer & Terms of Use
 **Read carefully before contacting.**
 
