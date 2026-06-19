@@ -17,7 +17,21 @@
 
 ---
 
-## 🛠️ Core Architecture & Tor Optimization
+<div align="center" style="background: linear-gradient(145deg, #111, #1a1a1a); border: 1px solid #0088cc; padding: 30px; border-radius: 12px; margin: 30px 0; box-shadow: 0 8px 24px rgba(0,136,204,0.1);">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" width="60" height="60" style="margin-bottom: 15px; filter: invert(41%) sepia(93%) saturate(1239%) hue-rotate(178deg) brightness(97%) contrast(103%);" alt="Telegram">
+  <h2 style="margin-top: 0; color: #fff; font-weight: 700; letter-spacing: 0.5px;">⚡ Join the Vendly HQ Community</h2>
+  <p style="color: #ccc; font-size: 15px; max-width: 550px; margin: 10px auto 25px auto; line-height: 1.6;">
+    Connect with privacy-focused core developers, track real-time script changelogs, receive critical security updates, and discuss custom deployment architectures.
+  </p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <a href="https://t.me/vendlyscript" target="_blank" style="background: #0088cc; color: #fff; padding: 14px 28px; text-decoration: none; font-weight: bold; border-radius: 6px; font-size: 14px; transition: background 0.2s ease; box-shadow: 0 4px 12px rgba(0,136,204,0.3);">💬 Enter Dev Community</a>
+    <a href="https://t.me/vendlydevs" target="_blank" style="background: transparent; color: #0088cc; padding: 12px 26px; text-decoration: none; font-weight: bold; border-radius: 6px; font-size: 14px; border: 2px solid #0088cc; transition: all 0.2s ease;">📬 Direct OTC Inquiries</a>
+  </div>
+</div>
+
+---
+
+## ⚙️ Core Architecture & Tor Optimization
 Designed for rapid deployment and seamless scaling via onion routing on any hardened Linux VPS.
 
 * **Tor-Optimized Frontend:** No Javascript dependency, ensuring full compatibility with Tor Browser's "Safest" security level.
@@ -38,7 +52,7 @@ Designed for rapid deployment and seamless scaling via onion routing on any hard
 
 ### 🪙 Native Blockchain Integration
 * **Self-Hosted Monero (XMR) Node:** Independent payment validation operating entirely behind Tor proxies without external APIs.
-* **Dynamic Checkout:** Automated generation of unique sub-addresses per order with real-time expiration countdowns.
+* **Pool-Based Address Distribution:** Eliminates real-time wallet creation flaws. Admin pre-generates Monero sub-addresses manually or via an automated auth-script. Addresses are stored in PostgreSQL, bound on-demand to current checkouts, and permanently wiped post-transaction to maintain zero audit trails.
 * **Edge-Case Resolution:** Background workers handle underpayments, overpayments, and block confirmations autonomously.
 
 ### 🏛️ Marketplace Operations
@@ -49,10 +63,10 @@ Designed for rapid deployment and seamless scaling via onion routing on any hard
 ---
 
 ## 📸 Interface Preview
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 10px; margin: 20px 0;">
-  <img src="https://github.com/user-attachments/assets/22ff3f79-4202-4534-97f8-5d1675cfaec5" alt="Dashboard" style="border-radius:6px; border:1px solid #333;">
-  <img src="https://github.com/user-attachments/assets/3f7bb082-de60-4023-9e83-39eb203294d1" alt="Listings" style="border-radius:6px; border:1px solid #333;">
-  <img src="https://github.com/user-attachments/assets/a134b56f-d371-4e3a-8b44-9e603aea71b4" alt="Disputes" style="border-radius:6px; border:1px solid #333;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; max-width: 1200px; margin: 20px auto;">
+  <img src="https://github.com/user-attachments/assets/22ff3f79-4202-4534-97f8-5d1675cfaec5" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="Dashboard">
+  <img src="https://github.com/user-attachments/assets/3f7bb082-de60-4023-9e83-39eb203294d1" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="Listings">
+  <img src="https://github.com/user-attachments/assets/a134b56f-d371-4e3a-8b44-9e603aea71b4" width="32%" style="border-radius: 6px; border: 1px solid #333;" alt="Disputes">
 </div>
 
 ---
@@ -64,12 +78,6 @@ This repository contains documentation and architectural overview. The core code
 1. Complete unencrypted source code with full Git history.
 2. Production-ready Docker deployment files with integrated Tor configurations (`INSTALL.md`, `SETUP.txt`).
 3. 30 days of direct server architecture, Tor routing, and deployment support.
-
-### 📩 Secure Your License
-Connect with our development team directly to verify the live demo, discuss pricing, or inspect the codebase structure:
-
-* **Telegram Contact:** [@vendlydevs](https://t.me/vendlydevs)
-* **Community Updates:** [@vendlyscript](https://t.me/vendlyscript)
 
 ---
 
