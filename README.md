@@ -19,13 +19,13 @@
 
 <div align="center" style="background: linear-gradient(145deg, #111, #1a1a1a); border: 1px solid #0088cc; padding: 30px; border-radius: 12px; margin: 30px 0; box-shadow: 0 8px 24px rgba(0,136,204,0.1);">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" width="60" height="60" style="margin-bottom: 15px; filter: invert(41%) sepia(93%) saturate(1239%) hue-rotate(178deg) brightness(97%) contrast(103%);" alt="Telegram">
-  <h2 style="margin-top: 0; color: #fff; font-weight: 700; letter-spacing: 0.5px;">⚡ Join the Vendly HQ Community</h2>
+  <h2 style="margin-top: 0; color: #fff; font-weight: 700; letter-spacing: 0.5px;">⚡ Join our Telegram Channels</h2>
   <p style="color: #ccc; font-size: 15px; max-width: 550px; margin: 10px auto 25px auto; line-height: 1.6;">
     Connect with privacy-focused core developers, track real-time script changelogs, receive critical security updates, and discuss custom deployment architectures.
   </p>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <a href="https://t.me/vendlyscript" target="_blank" style="background: #0088cc; color: #fff; padding: 14px 28px; text-decoration: none; font-weight: bold; border-radius: 6px; font-size: 14px; transition: background 0.2s ease; box-shadow: 0 4px 12px rgba(0,136,204,0.3);">💬 Enter Dev Community</a>
-    <a href="https://t.me/vendlydevs" target="_blank" style="background: transparent; color: #0088cc; padding: 12px 26px; text-decoration: none; font-weight: bold; border-radius: 6px; font-size: 14px; border: 2px solid #0088cc; transition: all 0.2s ease;">📬 Direct OTC Inquiries</a>
+    <a href="https://t.me/vendlyscript" target="_blank" style="background: #0088cc; color: #fff; padding: 14px 28px; text-decoration: none; font-weight: bold; border-radius: 6px; font-size: 14px; transition: background 0.2s ease; box-shadow: 0 4px 12px rgba(0,136,204,0.3);">💬 Join Telegram Community</a>
+    <a href="https://t.me/vendlydevs" target="_blank" style="background: transparent; color: #0088cc; padding: 12px 26px; text-decoration: none; font-weight: bold; border-radius: 6px; font-size: 14px; border: 2px solid #0088cc; transition: all 0.2s ease;">📬 Contact Developer</a>
   </div>
 </div>
 
